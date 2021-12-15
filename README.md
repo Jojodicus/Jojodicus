@@ -24,6 +24,12 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#4](https://github.com/Jojodicus/SortingAlgorithms/pull/4) in [Jojodicus/SortingAlgorithms](https://github.com/Jojodicus/SortingAlgorithms)
+2. 🎉 Merged PR [#5](https://github.com/Jojodicus/SortingAlgorithms/pull/5) in [Jojodicus/SortingAlgorithms](https://github.com/Jojodicus/SortingAlgorithms)
+3. 🎉 Merged PR [#3](https://github.com/Jojodicus/SortingAlgorithms/pull/3) in [Jojodicus/SortingAlgorithms](https://github.com/Jojodicus/SortingAlgorithms)
+4. ❗️ Closed issue [#1](https://github.com/Jojodicus/qr2eascii/issues/1) in [Jojodicus/qr2eascii](https://github.com/Jojodicus/qr2eascii)
+5. 🗣 Commented on [#1](https://github.com/Jojodicus/qr2eascii/issues/1) in [Jojodicus/qr2eascii](https://github.com/Jojodicus/qr2eascii)
+<!--END_SECTION:activity-->
 
 [university]: https://www.fau.eu/
 [github]: https://github.com/Jojodicus
