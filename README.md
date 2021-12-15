@@ -21,6 +21,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jojodicus&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## Recent activity
+
+<!--START_SECTION:activity-->
 
 [university]: https://www.fau.eu/
 [github]: https://github.com/Jojodicus
