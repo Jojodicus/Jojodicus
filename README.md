@@ -25,11 +25,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#339](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/pull/339) in [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
-2. 💪 Opened PR [#338](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/pull/338) in [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
-3. 💪 Opened PR [#337](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/pull/337) in [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
-4. 💪 Opened PR [#16](https://github.com/bloedboemmel/Discord-Counting-Bot/pull/16) in [bloedboemmel/Discord-Counting-Bot](https://github.com/bloedboemmel/Discord-Counting-Bot)
-5. ❗️ Opened issue [#71](https://github.com/bloedboemmel/bloedboemmel/issues/71) in [bloedboemmel/bloedboemmel](https://github.com/bloedboemmel/bloedboemmel)
+1. 💪 Opened PR [#340](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/pull/340) in [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
+2. ❌ Closed PR [#337](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/pull/337) in [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
+3. 🗣 Commented on [#337](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/issues/337) in [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
+4. 💪 Opened PR [#339](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/pull/339) in [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
+5. 💪 Opened PR [#338](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/pull/338) in [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
 <!--END_SECTION:activity-->
 
 [university]: https://www.fau.eu/
