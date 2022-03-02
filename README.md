@@ -25,11 +25,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#340](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/pull/340) in [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
-2. ❌ Closed PR [#337](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/pull/337) in [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
-3. 🗣 Commented on [#337](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/issues/337) in [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
-4. 💪 Opened PR [#339](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/pull/339) in [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
-5. 💪 Opened PR [#338](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/pull/338) in [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
+1. 🗣 Commented on [#339](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/issues/339) in [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
+2. 💪 Opened PR [#340](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/pull/340) in [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
+3. ❌ Closed PR [#337](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/pull/337) in [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
+4. 🗣 Commented on [#337](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/issues/337) in [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
+5. 💪 Opened PR [#339](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/pull/339) in [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
 <!--END_SECTION:activity-->
 
 [university]: https://www.fau.eu/
