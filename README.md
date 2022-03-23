@@ -25,11 +25,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#71](https://github.com/WoeUSB/WoeUSB-ng/issues/71) in [WoeUSB/WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng)
-2. 🗣 Commented on [#339](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/issues/339) in [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
-3. 💪 Opened PR [#340](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/pull/340) in [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
-4. ❌ Closed PR [#337](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/pull/337) in [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
-5. 🗣 Commented on [#337](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/issues/337) in [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
+1. ❗️ Opened issue [#22](https://github.com/JackHack96/EasyEffects-Presets/issues/22) in [JackHack96/EasyEffects-Presets](https://github.com/JackHack96/EasyEffects-Presets)
+2. ❗️ Opened issue [#71](https://github.com/WoeUSB/WoeUSB-ng/issues/71) in [WoeUSB/WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng)
+3. 🗣 Commented on [#339](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/issues/339) in [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
+4. 💪 Opened PR [#340](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/pull/340) in [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
+5. ❌ Closed PR [#337](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/pull/337) in [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
 <!--END_SECTION:activity-->
 
 [university]: https://www.fau.eu/
