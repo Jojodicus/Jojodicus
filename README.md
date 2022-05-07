@@ -25,11 +25,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Jojodicus/recess/pull/2) in [Jojodicus/recess](https://github.com/Jojodicus/recess)
-2. 💪 Opened PR [#26](https://github.com/JackHack96/EasyEffects-Presets/pull/26) in [JackHack96/EasyEffects-Presets](https://github.com/JackHack96/EasyEffects-Presets)
-3. 💪 Opened PR [#25](https://github.com/JackHack96/EasyEffects-Presets/pull/25) in [JackHack96/EasyEffects-Presets](https://github.com/JackHack96/EasyEffects-Presets)
-4. ❗️ Opened issue [#22](https://github.com/JackHack96/EasyEffects-Presets/issues/22) in [JackHack96/EasyEffects-Presets](https://github.com/JackHack96/EasyEffects-Presets)
-5. ❗️ Opened issue [#71](https://github.com/WoeUSB/WoeUSB-ng/issues/71) in [WoeUSB/WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng)
+1. 🗣 Commented on [#4](https://github.com/Jojodicus/recess/issues/4) in [Jojodicus/recess](https://github.com/Jojodicus/recess)
+2. ❗️ Opened issue [#4](https://github.com/Jojodicus/recess/issues/4) in [Jojodicus/recess](https://github.com/Jojodicus/recess)
+3. 🎉 Merged PR [#3](https://github.com/Jojodicus/recess/pull/3) in [Jojodicus/recess](https://github.com/Jojodicus/recess)
+4. 🎉 Merged PR [#2](https://github.com/Jojodicus/recess/pull/2) in [Jojodicus/recess](https://github.com/Jojodicus/recess)
+5. 💪 Opened PR [#26](https://github.com/JackHack96/EasyEffects-Presets/pull/26) in [JackHack96/EasyEffects-Presets](https://github.com/JackHack96/EasyEffects-Presets)
 <!--END_SECTION:activity-->
 
 [university]: https://www.fau.eu/
