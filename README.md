@@ -26,10 +26,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4](https://github.com/Jojodicus/recess/issues/4) in [Jojodicus/recess](https://github.com/Jojodicus/recess)
-2. ❗️ Opened issue [#4](https://github.com/Jojodicus/recess/issues/4) in [Jojodicus/recess](https://github.com/Jojodicus/recess)
-3. 🎉 Merged PR [#3](https://github.com/Jojodicus/recess/pull/3) in [Jojodicus/recess](https://github.com/Jojodicus/recess)
-4. 🎉 Merged PR [#2](https://github.com/Jojodicus/recess/pull/2) in [Jojodicus/recess](https://github.com/Jojodicus/recess)
-5. 💪 Opened PR [#26](https://github.com/JackHack96/EasyEffects-Presets/pull/26) in [JackHack96/EasyEffects-Presets](https://github.com/JackHack96/EasyEffects-Presets)
+2. 🗣 Commented on [#4](https://github.com/Jojodicus/recess/issues/4) in [Jojodicus/recess](https://github.com/Jojodicus/recess)
+3. ❗️ Opened issue [#4](https://github.com/Jojodicus/recess/issues/4) in [Jojodicus/recess](https://github.com/Jojodicus/recess)
+4. 🎉 Merged PR [#3](https://github.com/Jojodicus/recess/pull/3) in [Jojodicus/recess](https://github.com/Jojodicus/recess)
+5. 🎉 Merged PR [#2](https://github.com/Jojodicus/recess/pull/2) in [Jojodicus/recess](https://github.com/Jojodicus/recess)
 <!--END_SECTION:activity-->
 
 [university]: https://www.fau.eu/
