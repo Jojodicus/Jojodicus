@@ -25,11 +25,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/Jojodicus/recess/issues/4) in [Jojodicus/recess](https://github.com/Jojodicus/recess)
-2. 🗣 Commented on [#4](https://github.com/Jojodicus/recess/issues/4) in [Jojodicus/recess](https://github.com/Jojodicus/recess)
-3. 🎉 Merged PR [#6](https://github.com/Jojodicus/recess/pull/6) in [Jojodicus/recess](https://github.com/Jojodicus/recess)
-4. 🗣 Commented on [#6](https://github.com/Jojodicus/recess/issues/6) in [Jojodicus/recess](https://github.com/Jojodicus/recess)
-5. 💪 Opened PR [#6](https://github.com/Jojodicus/recess/pull/6) in [Jojodicus/recess](https://github.com/Jojodicus/recess)
+1. 🎉 Merged PR [#3](https://github.com/Jojodicus/xecute/pull/3) in [Jojodicus/xecute](https://github.com/Jojodicus/xecute)
+2. 💪 Opened PR [#3](https://github.com/Jojodicus/xecute/pull/3) in [Jojodicus/xecute](https://github.com/Jojodicus/xecute)
+3. 🎉 Merged PR [#2](https://github.com/Jojodicus/xecute/pull/2) in [Jojodicus/xecute](https://github.com/Jojodicus/xecute)
+4. 💪 Opened PR [#2](https://github.com/Jojodicus/xecute/pull/2) in [Jojodicus/xecute](https://github.com/Jojodicus/xecute)
+5. 🎉 Merged PR [#1](https://github.com/Jojodicus/xecute/pull/1) in [Jojodicus/xecute](https://github.com/Jojodicus/xecute)
 <!--END_SECTION:activity-->
 
 [university]: https://www.fau.eu/
