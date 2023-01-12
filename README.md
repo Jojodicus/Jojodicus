@@ -20,7 +20,7 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jojodicus&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jojodicus&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [university]: https://www.fau.eu/
 [github]: https://github.com/Jojodicus
