@@ -1,26 +1,30 @@
-# ⚡ Jojodicus ⚡
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-👋 Welcome on my profile!
-<br />
-🧑🏻‍💻 My name is Johannes and I'm a software developer from Germany 🇩🇪
-<br />
-💻 I'm currently studying Computer Science at the [Friedrich Alexander University][university] in Erlangen
+# Hi there, I'm Johannes! 👋
 
-## Languages
+## 🚀 About Me
 
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />][github]
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />][github]
-[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][github]
-[<img align="left" alt=".NET" width="26px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />][github]
-[<img align="left" alt="Java" width="15px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" />][github]
-[<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />][github]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
-[<img align="left" alt="Scala" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" />][github]
+I'm a passionate **Computer Science Master's student** at [FAU Erlangen-Nürnberg](https://www.fau.de/) 🇩🇪. My academic and personal projects revolve around HPC, low-level programming, embedded systems, and the exciting world of virtualization and containerization.
 
-<br />
-<br />
+---
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jojodicus&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠️ Technologies & Tools
 
-[university]: https://www.fau.eu/
-[github]: https://github.com/Jojodicus
+- 💻 Languages: C/C++, Python, Go, Java, CUDA
+- 🧑‍💻 Virtualization: Docker, QEMU, KVM
+- 🏷️ Embedded: AVR, ESP32, VHDL
+- 🌟 HPC Tools: OpenMP, MPI, Slurm
+- 🛠️ DevOps: CI/CD, GitHub Actions
+
+---
+
+## 📊 Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 width=100% align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jojodicus&layout=compact&theme=tokyonight" />
+</a>
