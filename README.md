@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a backend developer at [croit](https://croit.io/),
+I'm a developer at [croit](https://croit.io/),
 bringing scalable and maintainable storage orchestration to everyone!
 
 In my free time, I like to get involved in HPC, low-level programming, embedded systems, and the exciting world of virtualization and containerization.
